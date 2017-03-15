@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+頭がおかしくなってしまった人たちのためのインターネット上の /dev/null です。
 
-Things you may want to cover:
+## 機能要件
+WIP
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 環境構築
+んなもんWIPに決まってますよ。
